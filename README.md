@@ -83,4 +83,3 @@ The IADSS system relies on datasets with the following attributes:
 - **Fertilizer Recommendation**: Input `Temperature`, `Humidity`, `Soil Moisture`, `Soil Type`, `Crop Type`, `Nitrogen`, `Phosphorus`, and `Potassium` to receive fertilizer suggestions for the specified crop and location.
 - **Rainfall Prediction**: Provide `Subdivision` and `Year` to get rainfall forecasts for that year.
 - **Yield Prediction**: Enter `State Name`, `District Name`, `Crop Year`, `Season`, `Crop`, `Area`, and `Production` to get yield predictions for the specified crop and location.
-"""
